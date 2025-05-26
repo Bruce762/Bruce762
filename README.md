@@ -23,11 +23,7 @@ I'm Guan-Chieh Wang, a Computer Science and Information Engineering major at Fen
 | **開發工具**     | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)        |
 
 ## 統計
-
-| 統計類型     | 圖表                                                                                                                                                        |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 最常使用語言 | ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce762&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.3) |
-| GitHub 統計  | ![github stats](https://github-readme-stats.vercel.app/api?username=Bruce762&show_icons=true)                                                                 |
+![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce762&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.3) ![github stats](https://github-readme-stats.vercel.app/api?username=Bruce762&show_icons=true)
 
 ## 訪客計數
 
