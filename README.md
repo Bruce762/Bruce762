@@ -122,13 +122,7 @@ This repository contains all my learning notes
 
 </div>
 
-## 👀 Visitor Count
 
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/{Bruce762}/count.svg)
-
-</div>
 
 ---
 <div align="center">
