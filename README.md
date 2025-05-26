@@ -10,13 +10,11 @@
 
 ## 🎓 About Me
 
-> A passionate Computer Science student at Feng Chia University, dedicated to exploring the frontiers of technology.
 
 I'm Guan-Chieh Wang, a Computer Science and Information Engineering major at Feng Chia University. I have a solid grasp of multiple programming languages and frameworks, and I'm currently focused on exploring topics in artificial intelligence.
 
 ## 📚 My Notes
 
-> Knowledge sharing is caring. Check out my learning journey!
 
 This repository contains all my learning notes
 
@@ -135,6 +133,6 @@ This repository contains all my learning notes
 ---
 <div align="center">
   
-### Thanks for visiting! 🙌
+### Thanks for visiting!
 
 </div>
