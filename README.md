@@ -16,9 +16,9 @@ I'm Guan-Chieh Wang, a Computer Science and Information Engineering major at Fen
 ## 📚 My Notes
 
 
-This repository contains all my learning notes
+This repository contains all my learning notes.
 
-[![HackMD](https://img.shields.io/badge/HackMD-2196F3?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@Brucee)
+[![HackMD](https://img.shields.io/badge/HackMD-2196F3?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@Bruce762)
 
 ## 📫 Contact Me
 
