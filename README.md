@@ -31,7 +31,7 @@ This repository contains all my learning notes
 
 ## Statistics
 
-<div align="center">
+<div align="center"> 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bruce762&color=brightgreen&style=for-the-badge)](https://github.com/Bruce762)
 [![GitHub followers](https://img.shields.io/github/followers/Bruce762?style=for-the-badge&logo=github)](https://github.com/Bruce762?tab=followers)
