@@ -8,39 +8,25 @@
 
 </div>
 
-## 🎓 About Me
-
+## About Me
 
 I'm Guan-Chieh Wang, a Computer Science and Information Engineering major at Feng Chia University. I have a solid grasp of multiple programming languages and frameworks, and I'm currently focused on exploring topics in artificial intelligence.
 
-## 📚 My Notes
-
+## My Notes
 
 This repository contains all my learning notes
 
 [![HackMD](https://img.shields.io/badge/HackMD-2196F3?style=for-the-badge&logo=hackmd&logoColor=white)](https://hackmd.io/@Brucee)
 
-## 📫 Contact Me
+## Contact Me
 
 > Feel free to reach out to me through any of these platforms!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a0909861061@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=onboarding-landing) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a0909861061@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=onboarding-landing)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bruce762)
 
-## 💻 Programming Languages
-
-<div align="center">
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-</div>
-
-## 🛠️ Development Stack
+## Tech Stack
 
 <table align="center">
 <tr>
@@ -48,7 +34,20 @@ This repository contains all my learning notes
 <th>Technologies</th>
 </tr>
 <tr>
-<td><b>Frontend</b></td>
+<td><b>Languages</b></td>
+<td>
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td><b>Mobile / Frontend</b></td>
 <td>
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -59,7 +58,8 @@ This repository contains all my learning notes
 <td><b>Backend</b></td>
 <td>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
@@ -68,17 +68,18 @@ This repository contains all my learning notes
 <td><b>Cloud Services</b></td>
 <td>
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td><b>IoT & Automation</b></td>
+<td><b>IoT & Embedded</b></td>
 <td>
 
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
 </td>
 </tr>
@@ -87,6 +88,8 @@ This repository contains all my learning notes
 <td>
 
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 </td>
 </tr>
@@ -94,8 +97,9 @@ This repository contains all my learning notes
 <td><b>Compiler Development</b></td>
 <td>
 
-![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white) 
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
 ![Flex](https://img.shields.io/badge/Flex-FFA500?style=for-the-badge&logo=flex&logoColor=white)
+![Yacc](https://img.shields.io/badge/Yacc/Bison-A9A9A9?style=for-the-badge&logo=gnu&logoColor=white)
 
 </td>
 </tr>
@@ -103,30 +107,22 @@ This repository contains all my learning notes
 <td><b>Development Tools</b></td>
 <td>
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) 
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-## 📊 Statistics
+## Statistics
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce762&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.3&theme=dark) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce762&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.3&theme=dark&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruce762&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruce762&show_icons=true&theme=dark&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bruce762&theme=dark)
-
-</div>
-
-
-
----
-<div align="center">
-  
-### Thanks for visiting!
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bruce762&theme=dark)
 
 </div>
+
